@@ -230,6 +230,6 @@ Tuỳ chọn (MIT/GPL/…); thêm nội dung giấy phép bạn mong muốn.
 ## Liên hệ
 
 * Tác giả: **Vũ Minh Quốc**
-* Email: `vuminhquoc04hp@gmail.com`
+* Email: `minhquoc04hp@gmail.com`
 
 Nếu bạn muốn, mình có thể tạo luôn file `README.md` với badge, ảnh chụp màn hình UI, và thêm script `requirements.txt/pyproject.toml`.
